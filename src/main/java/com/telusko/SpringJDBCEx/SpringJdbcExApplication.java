@@ -23,6 +23,7 @@ public class SpringJdbcExApplication {
 
 	List<Student> students = service.getStudents();
 		System.out.println(students);
+		String hg = "지누야 안녕하누 ?";
 	}
 
 }
