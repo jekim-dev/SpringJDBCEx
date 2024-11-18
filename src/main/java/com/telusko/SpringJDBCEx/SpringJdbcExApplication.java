@@ -24,6 +24,8 @@ public class SpringJdbcExApplication {
 	List<Student> students = service.getStudents();
 		System.out.println(students);
 		String hg = "지누야 안녕하누 ?";
+		String hgzz = " 지누님 다시요 뭘언해 오ㅑㅐ안올라가 ";
+		
 	}
 
 }
